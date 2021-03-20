@@ -1,0 +1,15 @@
+body{
+    background: rgb(206, 188, 223);
+    font: 24px Calibri;
+    text-align: center;
+    width: 1300px;
+}
+
+.button {
+    font-size: 24px;
+    color: rgb(18, 42, 122);
+}
+
+.form{
+    
+}
